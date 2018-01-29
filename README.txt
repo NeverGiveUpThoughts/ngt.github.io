@@ -1,4 +1,4 @@
-Documents( read the documents carefully #Nilesh Sapariya)
+Documents:-
 
 Arcana by HTML5 UP
 html5up.net | @ajlkn
