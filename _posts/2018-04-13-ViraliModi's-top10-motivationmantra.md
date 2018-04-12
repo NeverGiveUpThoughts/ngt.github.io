@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-04-13 11:19
-featured: /assets/images/img1.jpg
+featured: /assets/images/imgvirali.jpg
 title: Another Demo blog
 published: true
 ---
