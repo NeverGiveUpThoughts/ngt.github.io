@@ -766,7 +766,7 @@
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
-		}
+		}/*css*/
 
 		.wrapper.style3 {
 			background-color: #37c0fb;
