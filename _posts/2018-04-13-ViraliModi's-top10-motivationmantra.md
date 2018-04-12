@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-04-13 11:19
-featured: /assets/images/imgvirali.jpg
+featured: /assets/images/imgvirali2.jpg
 title: Virali Modi's Top 10 Motivation Mantra
 published: true
 ---
