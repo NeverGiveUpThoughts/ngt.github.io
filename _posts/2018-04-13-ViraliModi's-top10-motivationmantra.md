@@ -6,7 +6,7 @@ title: Virali Modi's Top 10 Motivation Mantra
 published: true
 ---
 
-<p>Virali Modi (born 29 September 1991) is a disability rights activist from India. She spent much of her youth in the United States, but after a visit to India she entered a coma due to contracting malaria. She survived, but could no longer walk. She came second in the Miss Wheelchair India contest in 2014 and as a result gathered a large following on social media. Her efforts to make railways more accessible landed her in "100 Women (BBC)" for 2017</p>
+<p>Virali Modi (born 29 September 1991) is a disability rights activist from India. She spent much of her youth in the United States, but after a visit to India she entered a coma due to contracting malaria. She survived, but could no longer walk. She came second in the Miss Wheelchair India contest in 2014 and as a result gathered a large following on social media. Her efforts to make railways more accessible landed her in "100 Women (BBC)" for 2017.</p>
 
 <!--more-->
 
