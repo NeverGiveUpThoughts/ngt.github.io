@@ -46,6 +46,7 @@
 
 	.box.post .inner {
 		margin-left: calc(30% + 20px);
+	display:inline-block;
 	}
 
 	.box.post .image {
