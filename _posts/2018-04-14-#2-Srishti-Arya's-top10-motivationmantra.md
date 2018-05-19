@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-04-14 11:19
+date: 2018-05-19 11:19
 featured: /assets/images/imgsrishti.png
 title: #2 Srishti Arya's Top 10 Motivation Mantra
 published: true
