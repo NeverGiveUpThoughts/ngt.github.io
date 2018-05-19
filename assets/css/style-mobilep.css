@@ -47,10 +47,12 @@
 	.box.post .inner {
 		margin-left: calc(30% + 20px);
 	display:inline-block;
+		margin-left:20px;
 	}
 
 	.box.post .image {
 		width: 30%;
+		
 	}
 
 /* Banner */
